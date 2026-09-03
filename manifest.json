@@ -1,0 +1,16 @@
+{
+  "id":"https://mel-pops.github.io/Scrap-montage/",
+  "name":"Scrap Montage",
+  "short_name":"Scrap Montage",
+  "description":"Création locale de montages photo pour le scrapbooking.",
+  "start_url":"https://mel-pops.github.io/Scrap-montage/",
+  "scope":"https://mel-pops.github.io/Scrap-montage/",
+  "display":"standalone",
+  "background_color":"#fff7fb",
+  "theme_color":"#fff7fb",
+  "orientation":"portrait",
+  "icons":[
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
